@@ -40,7 +40,8 @@ sites:
     url: https://maa.cam.ac.uk/
 
 status-website:
-  baseUrl: /uptime # where "repo" is your repository name
+  cname: uptime.fitz.ms
+  #baseUrl: /uptime # where "repo" is your repository name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: FitzUptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
