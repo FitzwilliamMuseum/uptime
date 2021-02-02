@@ -25,7 +25,7 @@ sites:
   - name: University of Cambridge
     url: https://cam.ac.uk
   - name: Schools project
-    url: https://schools.fitz.ms
+    url: http://schools.fitz.ms
   - name: Content API
     url: https://content.fitz.ms
   - name: Public CIIM
