@@ -14,6 +14,22 @@ sites:
     url: https://human-touch.beta.fitz.ms
   - name: Coffins
     url: http://egyptiancoffins.org
+  - name: Winsor and Newton
+    url: https://winsorandnewton.fitzmuseum.cam.ac.uk/
+  - name: Beyond the Label
+    url: https://beyondthelabel.fitzmuseum.cam.ac.uk/
+  - name: Tickets
+    url: https://tickets.museums.cam.ac.uk
+  - name: UCM
+    url: https://museums.cam.ac.uk
+  - name: University of Cambridge
+    url: https://cam.ac.uk
+  - name: Schools project
+    url: https://schools.fitz.ms
+  - name: Content API
+    url: https://content.fitz.ms
+  - name: Public CIIM
+    url: https://api.fitz.ms
 
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
