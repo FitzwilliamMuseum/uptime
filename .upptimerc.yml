@@ -18,6 +18,12 @@ sites:
     url: https://winsorandnewton.fitzmuseum.cam.ac.uk/
   - name: Beyond the Label
     url: https://beyondthelabel.fitzmuseum.cam.ac.uk/
+  - name: Creative Economy
+    url: https://creative-economy.fitzmuseum.cam.ac.uk/
+  - name: Do Not Touch
+    url: https://do-not-touch.fitzmuseum.cam.ac.uk
+  - name: Feast and Fast
+    url: https://feast-and-fast.fitzmuseum.cam.ac.uk 
   - name: Tickets
     url: https://tickets.museums.cam.ac.uk
   - name: UCM
@@ -30,6 +36,8 @@ sites:
     url: https://content.fitz.ms
   - name: Public CIIM
     url: https://api.fitz.ms
+  - name: Museum of Archaeology
+    url: https://maa.cam.ac.uk/
 
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
