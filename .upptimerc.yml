@@ -38,6 +38,8 @@ sites:
     url: https://api.fitz.ms
   - name: Museum of Archaeology
     url: https://maa.cam.ac.uk/
+  - name: Micropasts
+    url: https://crowdsourced.micropasts.org
 
 status-website:
   cname: uptime.fitz.ms
