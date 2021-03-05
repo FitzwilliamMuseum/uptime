@@ -1,7 +1,7 @@
 url: https://crowdsourced.micropasts.org
-status: down
-code: 500
-responseTime: 1512
-lastUpdated: 2021-03-05T04:04:12.413Z
+status: up
+code: 200
+responseTime: 466
+lastUpdated: 2021-03-05T04:32:33.754Z
 startTime: Sat Feb 06 2021 23:41:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
