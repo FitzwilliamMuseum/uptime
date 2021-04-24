@@ -225,9 +225,9 @@
     "url": "https://cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/cam.ac.uk",
     "slug": "university-of-cambridge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -237,6 +237,7 @@
     "timeMonth": 1261,
     "timeYear": 1227,
     "dailyMinutesDown": {
+      "2021-04-24": 0,
       "2021-03-09": 19
     }
   },
@@ -322,11 +323,11 @@
     "icon": "https://favicons.githubusercontent.com/crowdsourced.micropasts.org",
     "slug": "micropasts",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 1050,
     "timeDay": 1898,
     "timeWeek": 1041,
