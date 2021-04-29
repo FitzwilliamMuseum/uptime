@@ -271,10 +271,10 @@
     "url": "https://content.fitz.ms",
     "icon": "https://favicons.githubusercontent.com/content.fitz.ms",
     "slug": "content-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 654,
@@ -282,7 +282,9 @@
     "timeWeek": 555,
     "timeMonth": 670,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-04-29": 1
+    }
   },
   {
     "name": "Public CIIM",
@@ -328,11 +330,11 @@
     "icon": "https://favicons.githubusercontent.com/crowdsourced.micropasts.org",
     "slug": "micropasts",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.84%",
     "time": 1036,
     "timeDay": 568,
     "timeWeek": 817,
