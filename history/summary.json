@@ -271,19 +271,19 @@
     "url": "https://content.fitz.ms",
     "icon": "https://favicons.githubusercontent.com/content.fitz.ms",
     "slug": "content-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 654,
-    "timeDay": 535,
-    "timeWeek": 555,
-    "timeMonth": 670,
-    "timeYear": 654,
+    "time": 653,
+    "timeDay": 506,
+    "timeWeek": 545,
+    "timeMonth": 664,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2021-04-29": 1
+      "2021-04-29": 5
     }
   },
   {
