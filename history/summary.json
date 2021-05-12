@@ -13,7 +13,7 @@
     "time": 1060,
     "timeDay": 1208,
     "timeWeek": 1145,
-    "timeMonth": 1199,
+    "timeMonth": 1189,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2021-04-28": 16,
@@ -34,7 +34,7 @@
     "time": 1580,
     "timeDay": 969,
     "timeWeek": 1641,
-    "timeMonth": 1930,
+    "timeMonth": 1927,
     "timeYear": 1580,
     "dailyMinutesDown": {
       "2021-05-12": 41,
@@ -55,7 +55,7 @@
     "time": 768,
     "timeDay": 1234,
     "timeWeek": 876,
-    "timeMonth": 763,
+    "timeMonth": 772,
     "timeYear": 768,
     "dailyMinutesDown": {}
   },
@@ -73,7 +73,7 @@
     "time": 483,
     "timeDay": 1735,
     "timeWeek": 445,
-    "timeMonth": 557,
+    "timeMonth": 569,
     "timeYear": 483,
     "dailyMinutesDown": {}
   },
@@ -91,7 +91,7 @@
     "time": 545,
     "timeDay": 1438,
     "timeWeek": 563,
-    "timeMonth": 566,
+    "timeMonth": 548,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -100,19 +100,19 @@
     "url": "https://winsorandnewton.fitzmuseum.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/winsorandnewton.fitzmuseum.cam.ac.uk",
     "slug": "winsor-and-newton",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "97.21%",
-    "uptimeYear": "99.15%",
-    "time": 680,
-    "timeDay": 0,
-    "timeWeek": 1597,
-    "timeMonth": 818,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "87.64%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "99.13%",
+    "time": 678,
+    "timeDay": 411,
+    "timeWeek": 1449,
+    "timeMonth": 816,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2021-05-12": 0,
+      "2021-05-12": 23,
       "2021-05-11": 27,
       "2021-05-10": 937,
       "2021-05-09": 260
@@ -150,7 +150,7 @@
     "time": 254,
     "timeDay": 120,
     "timeWeek": 209,
-    "timeMonth": 206,
+    "timeMonth": 207,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -168,7 +168,7 @@
     "time": 171,
     "timeDay": 135,
     "timeWeek": 165,
-    "timeMonth": 208,
+    "timeMonth": 210,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -204,7 +204,7 @@
     "time": 2610,
     "timeDay": 2158,
     "timeWeek": 2135,
-    "timeMonth": 2401,
+    "timeMonth": 2390,
     "timeYear": 2610,
     "dailyMinutesDown": {
       "2021-05-06": 19,
@@ -228,7 +228,7 @@
     "time": 631,
     "timeDay": 477,
     "timeWeek": 635,
-    "timeMonth": 625,
+    "timeMonth": 627,
     "timeYear": 631,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "time": 1308,
     "timeDay": 1051,
     "timeWeek": 1698,
-    "timeMonth": 1478,
+    "timeMonth": 1481,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2021-05-08": 30,
@@ -270,7 +270,7 @@
     "time": 601,
     "timeDay": 435,
     "timeWeek": 881,
-    "timeMonth": 675,
+    "timeMonth": 679,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2021-02-02": 3
@@ -290,7 +290,7 @@
     "time": 669,
     "timeDay": 452,
     "timeWeek": 941,
-    "timeMonth": 680,
+    "timeMonth": 682,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2021-04-29": 5
@@ -310,7 +310,7 @@
     "time": 501,
     "timeDay": 1119,
     "timeWeek": 537,
-    "timeMonth": 492,
+    "timeMonth": 496,
     "timeYear": 501,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "time": 1153,
     "timeDay": 1052,
     "timeWeek": 2189,
-    "timeMonth": 1345,
+    "timeMonth": 1354,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2021-05-12": 30,
@@ -350,7 +350,7 @@
     "time": 1036,
     "timeDay": 566,
     "timeWeek": 1104,
-    "timeMonth": 889,
+    "timeMonth": 895,
     "timeYear": 1036,
     "dailyMinutesDown": {
       "2021-03-18": 762,
