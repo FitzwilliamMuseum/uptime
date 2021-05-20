@@ -201,12 +201,12 @@
     "slug": "tickets",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "84.46%",
+    "uptimeDay": "86.98%",
     "uptimeWeek": "97.78%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.80%",
     "time": 2598,
-    "timeDay": 2103,
+    "timeDay": 2499,
     "timeWeek": 2458,
     "timeMonth": 2345,
     "timeYear": 2598,
@@ -224,9 +224,9 @@
     "url": "https://museums.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/museums.cam.ac.uk",
     "slug": "ucm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -235,7 +235,9 @@
     "timeWeek": 732,
     "timeMonth": 642,
     "timeYear": 637,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-20": 0
+    }
   },
   {
     "name": "University of Cambridge",
