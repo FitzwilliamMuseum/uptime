@@ -1,7 +1,7 @@
 url: https://beta.fitz.ms
-status: up
-code: 200
-responseTime: 3323
-lastUpdated: 2021-08-06T10:16:12.513Z
+status: down
+code: 500
+responseTime: 470
+lastUpdated: 2021-08-06T21:07:07.583Z
 startTime: Mon Feb 01 2021 23:51:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
