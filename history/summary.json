@@ -318,9 +318,9 @@
     "url": "https://content.fitz.ms",
     "icon": "https://favicons.githubusercontent.com/content.fitz.ms",
     "slug": "content-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -330,6 +330,7 @@
     "timeMonth": 698,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2021-08-10": 0,
       "2021-08-04": 14,
       "2021-04-29": 5
     }
