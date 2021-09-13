@@ -179,10 +179,10 @@
     "url": "https://creative-economy.fitzmuseum.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/creative-economy.fitzmuseum.cam.ac.uk",
     "slug": "creative-economy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 217,
@@ -191,6 +191,7 @@
     "timeMonth": 207,
     "timeYear": 217,
     "dailyMinutesDown": {
+      "2021-09-13": 1,
       "2021-06-08": 30
     }
   },
@@ -199,10 +200,10 @@
     "url": "https://do-not-touch.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/do-not-touch.fitzmuseum.cam.ac.uk",
     "slug": "do-not-touch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
@@ -211,6 +212,7 @@
     "timeMonth": 226,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2021-09-13": 1,
       "2021-06-08": 30
     }
   },
@@ -219,9 +221,9 @@
     "url": "https://feast-and-fast.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/feast-and-fast.fitzmuseum.cam.ac.uk",
     "slug": "feast-and-fast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -230,7 +232,9 @@
     "timeWeek": 146,
     "timeMonth": 209,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-13": 0
+    }
   },
   {
     "name": "Tickets",
