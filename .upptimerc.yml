@@ -4,12 +4,10 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Beta Website
-    url: https://beta.fitz.ms
-  - name: Current website
+  - name: Main website
     url: https://fitzmuseum.cam.ac.uk
   - name: Collection
-    url: https://collection.beta.fitz.ms
+    url: https://data.fitzmuseum.cam.ac.uk
   - name: Human Touch
     url: https://human-touch.beta.fitz.ms
   - name: Coffins
@@ -40,7 +38,11 @@ sites:
     url: https://maa.cam.ac.uk/
   - name: Micropasts
     url: https://crowdsourced.micropasts.org
-
+  - name: Kunisada 
+    url: https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk
+  - name: Intranet
+    url: https://intranet.fitzmuseum.cam.ac.uk 
+ 
 status-website:
   cname: uptime.fitz.ms
   #baseUrl: /uptime # where "repo" is your repository name
