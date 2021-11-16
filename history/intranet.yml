@@ -1,7 +1,7 @@
 url: https://intranet.fitzmuseum.cam.ac.uk
-status: up
-code: 200
-responseTime: 703
-lastUpdated: 2021-11-15T23:08:11.891Z
+status: down
+code: 404
+responseTime: 636
+lastUpdated: 2021-11-16T17:47:12.293Z
 startTime: Fri Oct 08 2021 13:48:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
