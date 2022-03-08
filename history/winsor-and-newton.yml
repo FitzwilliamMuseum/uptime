@@ -1,7 +1,7 @@
 url: https://winsorandnewton.fitzmuseum.cam.ac.uk/
-status: up
-code: 200
-responseTime: 1172
-lastUpdated: 2022-03-07T23:08:32.544Z
+status: down
+code: 500
+responseTime: 667
+lastUpdated: 2022-03-08T14:49:14.732Z
 startTime: Tue Feb 02 2021 00:13:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
