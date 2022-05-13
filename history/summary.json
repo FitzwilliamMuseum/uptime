@@ -109,12 +109,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 701,
     "timeDay": 3099,
     "timeWeek": 1100,
     "timeMonth": 745,
-    "timeYear": 707,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2022-03-09": 704,
       "2022-03-08": 551,
@@ -399,8 +399,7 @@
       "2022-01-20": 38,
       "2021-11-02": 31,
       "2021-09-28": 11,
-      "2021-08-10": 6,
-      "2021-05-13": 87
+      "2021-08-10": 6
     }
   },
   {
@@ -410,9 +409,9 @@
     "slug": "micropasts",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 2074,
     "timeDay": 535,
@@ -420,7 +419,6 @@
     "timeMonth": 4985,
     "timeYear": 2393,
     "dailyMinutesDown": {
-      "2022-05-12": 9,
       "2022-05-09": 77,
       "2021-12-11": 37,
       "2021-09-14": 17,
