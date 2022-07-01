@@ -13,7 +13,7 @@
     "time": 746,
     "timeDay": 699,
     "timeWeek": 725,
-    "timeMonth": 743,
+    "timeMonth": 746,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2022-04-18": 22,
@@ -33,17 +33,16 @@
     "slug": "collection",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 856,
     "timeDay": 637,
     "timeWeek": 856,
-    "timeMonth": 915,
+    "timeMonth": 924,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2022-06-30": 3,
       "2022-04-18": 21,
       "2022-03-21": 155,
       "2021-12-17": 17,
@@ -73,7 +72,7 @@
     "time": 580,
     "timeDay": 1803,
     "timeWeek": 1045,
-    "timeMonth": 696,
+    "timeMonth": 715,
     "timeYear": 605,
     "dailyMinutesDown": {}
   },
@@ -91,7 +90,7 @@
     "time": 433,
     "timeDay": 346,
     "timeWeek": 335,
-    "timeMonth": 318,
+    "timeMonth": 320,
     "timeYear": 389,
     "dailyMinutesDown": {}
   },
@@ -109,7 +108,7 @@
     "time": 709,
     "timeDay": 709,
     "timeWeek": 875,
-    "timeMonth": 743,
+    "timeMonth": 751,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2022-03-09": 704,
@@ -133,7 +132,7 @@
     "time": 198,
     "timeDay": 245,
     "timeWeek": 260,
-    "timeMonth": 244,
+    "timeMonth": 248,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2021-09-10": 11
@@ -153,7 +152,7 @@
     "time": 196,
     "timeDay": 148,
     "timeWeek": 149,
-    "timeMonth": 184,
+    "timeMonth": 186,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2021-09-13": 5
@@ -173,7 +172,7 @@
     "time": 185,
     "timeDay": 209,
     "timeWeek": 296,
-    "timeMonth": 191,
+    "timeMonth": 193,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2021-09-13": 4
@@ -193,7 +192,7 @@
     "time": 201,
     "timeDay": 126,
     "timeWeek": 220,
-    "timeMonth": 257,
+    "timeMonth": 261,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2021-09-13": 4
@@ -213,7 +212,7 @@
     "time": 2585,
     "timeDay": 2531,
     "timeWeek": 2190,
-    "timeMonth": 3550,
+    "timeMonth": 3596,
     "timeYear": 2616,
     "dailyMinutesDown": {
       "2022-06-21": 49,
@@ -240,7 +239,7 @@
     "time": 650,
     "timeDay": 684,
     "timeWeek": 734,
-    "timeMonth": 661,
+    "timeMonth": 668,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2021-10-07": 191,
@@ -263,7 +262,7 @@
     "time": 1318,
     "timeDay": 1395,
     "timeWeek": 1308,
-    "timeMonth": 1231,
+    "timeMonth": 1239,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2022-06-29": 43,
@@ -296,7 +295,7 @@
     "time": 1099,
     "timeDay": 1451,
     "timeWeek": 2031,
-    "timeMonth": 1773,
+    "timeMonth": 1798,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2022-01-06": 96,
@@ -320,7 +319,7 @@
     "time": 897,
     "timeDay": 650,
     "timeWeek": 741,
-    "timeMonth": 879,
+    "timeMonth": 891,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2021-11-29": 18,
@@ -360,7 +359,7 @@
     "time": 592,
     "timeDay": 401,
     "timeWeek": 603,
-    "timeMonth": 732,
+    "timeMonth": 746,
     "timeYear": 631,
     "dailyMinutesDown": {}
   },
@@ -378,7 +377,7 @@
     "time": 825,
     "timeDay": 691,
     "timeWeek": 817,
-    "timeMonth": 727,
+    "timeMonth": 732,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2022-01-20": 38,
@@ -401,7 +400,7 @@
     "time": 2618,
     "timeDay": 948,
     "timeWeek": 3833,
-    "timeMonth": 3375,
+    "timeMonth": 3467,
     "timeYear": 3239,
     "dailyMinutesDown": {
       "2022-06-14": 518,
@@ -444,7 +443,7 @@
     "time": 166,
     "timeDay": 115,
     "timeWeek": 156,
-    "timeMonth": 138,
+    "timeMonth": 139,
     "timeYear": 166,
     "dailyMinutesDown": {}
   },
@@ -462,7 +461,7 @@
     "time": 826,
     "timeDay": 814,
     "timeWeek": 849,
-    "timeMonth": 904,
+    "timeMonth": 913,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2022-03-01": 47,
