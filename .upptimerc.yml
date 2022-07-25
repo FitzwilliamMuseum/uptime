@@ -26,16 +26,12 @@ sites:
     url: https://tickets.museums.cam.ac.uk
   - name: UCM
     url: https://museums.cam.ac.uk
-  - name: University of Cambridge
-    url: https://cam.ac.uk
   - name: Schools project
-    url: http://schools.fitz.ms
+    url: http://schools.fitzmuseum.cam.ac.uk
   - name: Content API
     url: https://content.fitz.ms
   - name: Public CIIM
     url: https://api.fitz.ms
-  - name: Museum of Archaeology
-    url: https://maa.cam.ac.uk/
   - name: Micropasts
     url: https://crowdsourced.micropasts.org
   - name: Kunisada 
