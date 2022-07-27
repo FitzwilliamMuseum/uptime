@@ -38,6 +38,18 @@ sites:
     url: https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk
   - name: Intranet
     url: https://intranet.fitzmuseum.cam.ac.uk 
+  - name: Mapping Antiquity
+    url: https://mapping-antiquity.fitzmuseum.cam.ac.uk
+  - name: Portrait Miniatures
+    url: https://unlocking-miniatures.fitzmuseum.cam.ac.uk
+  - name: A museum of relationships
+    url: https://amor.fitz.ms
+  - name: URL shortener
+    url: https://fitz.ms
+  - name: Data Islands 
+    url: https://data-islands.fitzmuseum.cam.ac.uk
+  - name: Being an Islander 
+    url: https://islander.fitzmuseum.cam.ac.uk
  
 status-website:
   cname: uptime.fitz.ms
