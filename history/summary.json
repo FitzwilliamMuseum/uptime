@@ -65,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/human-touch.beta.fitz.ms",
     "slug": "human-touch",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 583,
     "timeDay": 421,
     "timeWeek": 505,
     "timeMonth": 527,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2022-08-04": 0
+      "2022-08-05": 44,
+      "2022-08-04": 11
     }
   },
   {
