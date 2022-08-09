@@ -9,7 +9,7 @@ sites:
   - name: Collection
     url: https://data.fitzmuseum.cam.ac.uk
   - name: Human Touch
-    url: https://human-touch.beta.fitz.ms
+    url: https://human-touch.fitzmuseum.cam.ac.uk
   - name: Coffins
     url: http://egyptiancoffins.org
   - name: Winsor and Newton
