@@ -13,7 +13,7 @@
     "time": 763,
     "timeDay": 806,
     "timeWeek": 694,
-    "timeMonth": 953,
+    "timeMonth": 961,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2022-08-17": 18,
@@ -42,7 +42,7 @@
     "time": 902,
     "timeDay": 1119,
     "timeWeek": 867,
-    "timeMonth": 972,
+    "timeMonth": 978,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2022-08-17": 18,
@@ -73,7 +73,7 @@
     "time": 584,
     "timeDay": 188,
     "timeWeek": 262,
-    "timeMonth": 515,
+    "timeMonth": 519,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2022-08-09": 1098,
@@ -98,7 +98,7 @@
     "time": 410,
     "timeDay": 197,
     "timeWeek": 286,
-    "timeMonth": 297,
+    "timeMonth": 299,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "time": 724,
     "timeDay": 5080,
     "timeWeek": 1378,
-    "timeMonth": 787,
+    "timeMonth": 790,
     "timeYear": 718,
     "dailyMinutesDown": {
       "2022-03-09": 704,
@@ -140,7 +140,7 @@
     "time": 208,
     "timeDay": 165,
     "timeWeek": 165,
-    "timeMonth": 315,
+    "timeMonth": 294,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2021-09-10": 11
@@ -160,7 +160,7 @@
     "time": 186,
     "timeDay": 188,
     "timeWeek": 188,
-    "timeMonth": 225,
+    "timeMonth": 222,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2021-09-13": 5
@@ -180,7 +180,7 @@
     "time": 192,
     "timeDay": 166,
     "timeWeek": 161,
-    "timeMonth": 221,
+    "timeMonth": 200,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2021-09-13": 4
@@ -200,7 +200,7 @@
     "time": 203,
     "timeDay": 157,
     "timeWeek": 186,
-    "timeMonth": 209,
+    "timeMonth": 211,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2021-09-13": 4
@@ -220,7 +220,7 @@
     "time": 2605,
     "timeDay": 2748,
     "timeWeek": 2403,
-    "timeMonth": 2724,
+    "timeMonth": 2756,
     "timeYear": 2643,
     "dailyMinutesDown": {
       "2022-06-21": 49,
@@ -236,18 +236,19 @@
     "url": "https://museums.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/museums.cam.ac.uk",
     "slug": "ucm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 655,
-    "timeDay": 1169,
-    "timeWeek": 650,
+    "timeDay": 848,
+    "timeWeek": 635,
     "timeMonth": 668,
-    "timeYear": 662,
+    "timeYear": 661,
     "dailyMinutesDown": {
+      "2022-08-25": 1,
       "2021-10-07": 191
     }
   },
@@ -265,7 +266,7 @@
     "time": 1190,
     "timeDay": 1354,
     "timeWeek": 1042,
-    "timeMonth": 1054,
+    "timeMonth": 1057,
     "timeYear": 1337,
     "dailyMinutesDown": {
       "2022-01-06": 96,
@@ -288,7 +289,7 @@
     "time": 926,
     "timeDay": 831,
     "timeWeek": 926,
-    "timeMonth": 1056,
+    "timeMonth": 1054,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2021-11-29": 18,
@@ -318,7 +319,7 @@
     "time": 631,
     "timeDay": 1440,
     "timeWeek": 1659,
-    "timeMonth": 963,
+    "timeMonth": 980,
     "timeYear": 672,
     "dailyMinutesDown": {}
   },
@@ -336,7 +337,7 @@
     "time": 2735,
     "timeDay": 1254,
     "timeWeek": 788,
-    "timeMonth": 2350,
+    "timeMonth": 2401,
     "timeYear": 3308,
     "dailyMinutesDown": {
       "2022-06-14": 518,
@@ -377,7 +378,7 @@
     "time": 171,
     "timeDay": 182,
     "timeWeek": 150,
-    "timeMonth": 173,
+    "timeMonth": 176,
     "timeYear": 171,
     "dailyMinutesDown": {}
   },
@@ -395,7 +396,7 @@
     "time": 833,
     "timeDay": 1096,
     "timeWeek": 848,
-    "timeMonth": 858,
+    "timeMonth": 863,
     "timeYear": 833,
     "dailyMinutesDown": {
       "2022-08-25": 157,
@@ -463,11 +464,11 @@
     "icon": "https://favicons.githubusercontent.com/fitz.ms",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "89.15%",
     "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 646,
     "timeDay": 481,
     "timeWeek": 573,
