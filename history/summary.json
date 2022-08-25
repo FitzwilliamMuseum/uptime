@@ -238,9 +238,9 @@
     "slug": "ucm",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 657,
     "timeDay": 930,
@@ -248,7 +248,6 @@
     "timeMonth": 680,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-08-25": 12,
       "2021-10-07": 191
     }
   },
@@ -310,18 +309,20 @@
     "url": "https://api.fitz.ms",
     "icon": "https://favicons.githubusercontent.com/api.fitz.ms",
     "slug": "public-ciim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 631,
+    "time": 632,
     "timeDay": 1440,
     "timeWeek": 1659,
     "timeMonth": 980,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-25": 1
+    }
   },
   {
     "name": "Micropasts",
