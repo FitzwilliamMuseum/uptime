@@ -151,10 +151,10 @@
     "url": "https://creative-economy.fitzmuseum.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/creative-economy.fitzmuseum.cam.ac.uk",
     "slug": "creative-economy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 186,
@@ -163,7 +163,7 @@
     "timeMonth": 219,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -171,10 +171,10 @@
     "url": "https://do-not-touch.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/do-not-touch.fitzmuseum.cam.ac.uk",
     "slug": "do-not-touch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 194,
@@ -183,7 +183,7 @@
     "timeMonth": 238,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -367,10 +367,10 @@
     "url": "https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/kunisada-and-kabuki.fitzmuseum.cam.ac.uk",
     "slug": "kunisada",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 187,
@@ -379,7 +379,7 @@
     "timeMonth": 351,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -409,19 +409,19 @@
     "url": "https://mapping-antiquity.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/mapping-antiquity.fitzmuseum.cam.ac.uk",
     "slug": "mapping-antiquity",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 205,
     "timeDay": 154,
     "timeWeek": 169,
     "timeMonth": 177,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -429,19 +429,19 @@
     "url": "https://unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "slug": "portrait-miniatures",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 198,
     "timeDay": 141,
     "timeWeek": 193,
     "timeMonth": 218,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -487,19 +487,19 @@
     "url": "https://data-islands.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/data-islands.fitzmuseum.cam.ac.uk",
     "slug": "data-islands",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 175,
     "timeDay": 164,
     "timeWeek": 188,
     "timeMonth": 159,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   },
   {
@@ -507,19 +507,19 @@
     "url": "https://islander.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/islander.fitzmuseum.cam.ac.uk",
     "slug": "being-an-islander",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 157,
     "timeDay": 172,
     "timeWeek": 194,
     "timeMonth": 158,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-09-15": 25
+      "2022-09-15": 26
     }
   }
 ]
