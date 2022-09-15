@@ -61,18 +61,19 @@
     "url": "https://human-touch.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/human-touch.fitzmuseum.cam.ac.uk",
     "slug": "human-touch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.69%",
-    "time": 571,
+    "time": 572,
     "timeDay": 148,
     "timeWeek": 310,
     "timeMonth": 348,
     "timeYear": 599,
     "dailyMinutesDown": {
+      "2022-09-15": 1,
       "2022-08-09": 1098,
       "2022-08-08": 1440,
       "2022-08-07": 1440,
@@ -86,10 +87,10 @@
     "url": "http://egyptiancoffins.org",
     "icon": "https://favicons.githubusercontent.com/egyptiancoffins.org",
     "slug": "coffins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 395,
@@ -97,7 +98,9 @@
     "timeWeek": 299,
     "timeMonth": 275,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Winsor and Newton",
@@ -128,10 +131,10 @@
     "url": "https://beyondthelabel.fitzmuseum.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/beyondthelabel.fitzmuseum.cam.ac.uk",
     "slug": "beyond-the-label",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
@@ -139,17 +142,19 @@
     "timeWeek": 174,
     "timeMonth": 402,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Creative Economy",
     "url": "https://creative-economy.fitzmuseum.cam.ac.uk/",
     "icon": "https://favicons.githubusercontent.com/creative-economy.fitzmuseum.cam.ac.uk",
     "slug": "creative-economy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
@@ -157,17 +162,19 @@
     "timeWeek": 228,
     "timeMonth": 222,
     "timeYear": 186,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Do Not Touch",
     "url": "https://do-not-touch.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/do-not-touch.fitzmuseum.cam.ac.uk",
     "slug": "do-not-touch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
@@ -175,17 +182,19 @@
     "timeWeek": 282,
     "timeMonth": 241,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Feast and Fast",
     "url": "https://feast-and-fast.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/feast-and-fast.fitzmuseum.cam.ac.uk",
     "slug": "feast-and-fast",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
@@ -193,7 +202,9 @@
     "timeWeek": 224,
     "timeMonth": 183,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Tickets",
@@ -224,7 +235,7 @@
     "icon": "https://favicons.githubusercontent.com/museums.cam.ac.uk",
     "slug": "ucm",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.43%",
@@ -356,10 +367,10 @@
     "url": "https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/kunisada-and-kabuki.fitzmuseum.cam.ac.uk",
     "slug": "kunisada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
@@ -367,7 +378,9 @@
     "timeWeek": 261,
     "timeMonth": 358,
     "timeYear": 187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Intranet",
@@ -396,10 +409,10 @@
     "url": "https://mapping-antiquity.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/mapping-antiquity.fitzmuseum.cam.ac.uk",
     "slug": "mapping-antiquity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -407,17 +420,19 @@
     "timeWeek": 166,
     "timeMonth": 176,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Portrait Miniatures",
     "url": "https://unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "slug": "portrait-miniatures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 199,
@@ -425,7 +440,9 @@
     "timeWeek": 202,
     "timeMonth": 221,
     "timeYear": 199,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "A museum of relationships",
@@ -470,10 +487,10 @@
     "url": "https://data-islands.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/data-islands.fitzmuseum.cam.ac.uk",
     "slug": "data-islands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
@@ -481,17 +498,19 @@
     "timeWeek": 188,
     "timeMonth": 158,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   },
   {
     "name": "Being an Islander",
     "url": "https://islander.fitzmuseum.cam.ac.uk",
     "icon": "https://favicons.githubusercontent.com/islander.fitzmuseum.cam.ac.uk",
     "slug": "being-an-islander",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
@@ -499,6 +518,8 @@
     "timeWeek": 194,
     "timeMonth": 157,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-15": 1
+    }
   }
 ]
