@@ -1,7 +1,7 @@
 url: https://tickets.museums.cam.ac.uk
-status: up
-code: 200
-responseTime: 2263
-lastUpdated: 2022-11-17T23:10:26.777Z
+status: down
+code: 504
+responseTime: 10538
+lastUpdated: 2022-11-18T17:11:27.441Z
 startTime: Tue Feb 02 2021 00:13:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
