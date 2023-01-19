@@ -11,7 +11,7 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
     "time": 838,
-    "timeDay": 593,
+    "timeDay": 479,
     "timeWeek": 790,
     "timeMonth": 1000,
     "timeYear": 872,
@@ -254,7 +254,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schools.fitzmuseum.cam.ac.uk.ico",
     "slug": "schools-project",
     "status": "up",
-    "uptime": "97.82%",
+    "uptime": "97.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "61.15%",
@@ -509,10 +509,10 @@
     "url": "https://islander.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/islander.fitzmuseum.cam.ac.uk.ico",
     "slug": "being-an-islander",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 205,
@@ -521,6 +521,7 @@
     "timeMonth": 172,
     "timeYear": 205,
     "dailyMinutesDown": {
+      "2023-01-19": 1,
       "2022-09-15": 41
     }
   }
