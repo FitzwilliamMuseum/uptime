@@ -83,10 +83,10 @@
     "url": "http://egyptiancoffins.org",
     "icon": "https://icons.duckduckgo.com/ip3/egyptiancoffins.org.ico",
     "slug": "coffins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 300,
@@ -95,6 +95,7 @@
     "timeMonth": 286,
     "timeYear": 307,
     "dailyMinutesDown": {
+      "2023-04-09": 2,
       "2022-09-15": 41
     }
   },
@@ -408,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2023-04-09": 1046,
+      "2023-04-09": 1052,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -516,10 +517,10 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 624,
@@ -528,6 +529,7 @@
     "timeMonth": 530,
     "timeYear": 624,
     "dailyMinutesDown": {
+      "2023-04-09": 1,
       "2023-01-16": 26
     }
   },
