@@ -223,19 +223,19 @@
     "url": "https://tickets.museums.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/tickets.museums.cam.ac.uk.ico",
     "slug": "tickets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1753,
+    "time": 1749,
     "timeDay": 2434,
     "timeWeek": 2427,
     "timeMonth": 1012,
     "timeYear": 1390,
     "dailyMinutesDown": {
-      "2023-07-26": 13,
+      "2023-07-26": 14,
       "2022-11-18": 17,
       "2022-11-10": 18
     }
@@ -429,7 +429,7 @@
     "timeMonth": 0,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2023-07-26": 687,
+      "2023-07-26": 693,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
