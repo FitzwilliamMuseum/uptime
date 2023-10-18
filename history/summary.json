@@ -393,19 +393,19 @@
     "url": "https://crowdsourced.micropasts.org",
     "icon": "https://icons.duckduckgo.com/ip3/crowdsourced.micropasts.org.ico",
     "slug": "micropasts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "89.07%",
+    "uptimeDay": "89.03%",
     "uptimeWeek": "92.61%",
-    "uptimeMonth": "96.98%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "99.75%",
-    "time": 3115,
+    "time": 3119,
     "timeDay": 7034,
     "timeWeek": 5167,
     "timeMonth": 4368,
     "timeYear": 3165,
     "dailyMinutesDown": {
-      "2023-10-18": 140,
+      "2023-10-18": 141,
       "2023-10-17": 110,
       "2023-10-16": 232,
       "2023-10-15": 57,
@@ -416,7 +416,7 @@
       "2023-10-10": 505,
       "2023-10-09": 14,
       "2023-10-08": 19,
-      "2023-10-07": 17
+      "2023-10-07": 13
     }
   },
   {
@@ -443,7 +443,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.fitzmuseum.cam.ac.uk.ico",
     "slug": "intranet",
     "status": "down",
-    "uptime": "66.05%",
+    "uptime": "66.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-10-18": 1132,
+      "2023-10-18": 1155,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
