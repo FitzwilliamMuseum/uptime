@@ -14,7 +14,7 @@
     "timeDay": 681,
     "timeWeek": 683,
     "timeMonth": 815,
-    "timeYear": 927,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2023-10-05": 26,
       "2023-09-29": 5,
@@ -138,7 +138,7 @@
     "timeDay": 737,
     "timeWeek": 705,
     "timeMonth": 827,
-    "timeYear": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2023-07-24": 160,
       "2023-04-07": 16,
@@ -238,7 +238,7 @@
     "timeDay": 240,
     "timeWeek": 708,
     "timeMonth": 1232,
-    "timeYear": 1081,
+    "timeYear": 1076,
     "dailyMinutesDown": {
       "2023-07-26": 34,
       "2022-11-18": 17,
@@ -288,7 +288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schools.fitzmuseum.cam.ac.uk.ico",
     "slug": "schools-project",
     "status": "up",
-    "uptime": "95.87%",
+    "uptime": "95.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "74.85%",
@@ -359,7 +359,7 @@
     "timeDay": 578,
     "timeWeek": 663,
     "timeMonth": 728,
-    "timeYear": 770,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2023-10-05": 10,
       "2023-09-29": 3,
@@ -393,19 +393,19 @@
     "url": "https://crowdsourced.micropasts.org",
     "icon": "https://icons.duckduckgo.com/ip3/crowdsourced.micropasts.org.ico",
     "slug": "micropasts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "89.21%",
+    "uptimeDay": "89.26%",
     "uptimeWeek": "92.52%",
-    "uptimeMonth": "97.02%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.75%",
-    "time": 3110,
-    "timeDay": 6576,
+    "time": 3114,
+    "timeDay": 6706,
     "timeWeek": 5279,
     "timeMonth": 4428,
-    "timeYear": 3185,
+    "timeYear": 3190,
     "dailyMinutesDown": {
-      "2023-10-18": 153,
+      "2023-10-18": 154,
       "2023-10-17": 110,
       "2023-10-16": 232,
       "2023-10-15": 57,
@@ -414,8 +414,7 @@
       "2023-10-12": 93,
       "2023-10-11": 29,
       "2023-10-10": 505,
-      "2023-10-09": 14,
-      "2023-10-08": 4
+      "2023-10-09": 14
     }
   },
   {
@@ -446,14 +445,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.13%",
+    "uptimeYear": "31.12%",
     "time": 886,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-10-18": 1389,
+      "2023-10-18": 1438,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -722,7 +721,7 @@
     "timeDay": 103,
     "timeWeek": 170,
     "timeMonth": 168,
-    "timeYear": 207,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2023-10-03": 19
     }
@@ -760,7 +759,7 @@
     "timeDay": 478,
     "timeWeek": 575,
     "timeMonth": 595,
-    "timeYear": 588,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-10-05": 10,
       "2023-09-28": 2,
@@ -790,7 +789,7 @@
     "timeDay": 360,
     "timeWeek": 447,
     "timeMonth": 521,
-    "timeYear": 544,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2023-06-05": 13,
       "2023-04-09": 6,
