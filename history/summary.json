@@ -393,19 +393,19 @@
     "url": "https://crowdsourced.micropasts.org",
     "icon": "https://icons.duckduckgo.com/ip3/crowdsourced.micropasts.org.ico",
     "slug": "micropasts",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "80.11%",
-    "uptimeWeek": "91.04%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "99.72%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "80.32%",
+    "uptimeWeek": "91.03%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "99.81%",
     "time": 3340,
-    "timeDay": 7147,
+    "timeDay": 7534,
     "timeWeek": 5401,
     "timeMonth": 4606,
     "timeYear": 3253,
     "dailyMinutesDown": {
-      "2023-10-19": 193,
+      "2023-10-19": 194,
       "2023-10-18": 155,
       "2023-10-17": 110,
       "2023-10-16": 232,
@@ -414,7 +414,7 @@
       "2023-10-13": 77,
       "2023-10-12": 93,
       "2023-10-11": 29,
-      "2023-10-10": 505
+      "2023-10-10": 24
     }
   },
   {
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-10-19": 272,
+      "2023-10-19": 289,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
