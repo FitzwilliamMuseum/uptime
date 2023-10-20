@@ -395,7 +395,7 @@
     "slug": "micropasts",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "75.82%",
+    "uptimeDay": "78.02%",
     "uptimeWeek": "90.00%",
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.81%",
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2023-10-19": 1424,
+      "2023-10-20": 29,
+      "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
