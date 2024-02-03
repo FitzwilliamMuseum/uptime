@@ -32,12 +32,8 @@ sites:
     url: https://content.fitz.ms
   - name: Public CIIM
     url: https://api.fitz.ms
-  - name: Micropasts
-    url: https://crowdsourced.micropasts.org
   - name: Kunisada 
     url: https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk
-  - name: Intranet
-    url: https://intranet.fitzmuseum.cam.ac.uk 
   - name: Mapping Antiquity
     url: https://mapping-antiquity.fitzmuseum.cam.ac.uk
   - name: Portrait Miniatures
