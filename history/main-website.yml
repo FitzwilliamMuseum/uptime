@@ -1,7 +1,7 @@
 url: https://fitzmuseum.cam.ac.uk
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2024-03-12T23:09:03.071Z
+status: down
+code: 504
+responseTime: 15352
+lastUpdated: 2024-03-13T19:53:25.786Z
 startTime: 2021-10-08T13:48:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
