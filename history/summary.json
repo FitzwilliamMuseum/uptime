@@ -8,12 +8,12 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.58%",
     "time": 3281,
-    "timeDay": 812,
-    "timeWeek": 2511,
-    "timeMonth": 1513,
+    "timeDay": 549,
+    "timeWeek": 2474,
+    "timeMonth": 1567,
     "timeYear": 3832,
     "dailyMinutesDown": {
       "2024-09-26": 10,
@@ -98,13 +98,13 @@
     "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.59%",
-    "time": 4391,
-    "timeDay": 1187,
-    "timeWeek": 1082,
-    "timeMonth": 1624,
-    "timeYear": 4821,
+    "time": 4390,
+    "timeDay": 742,
+    "timeWeek": 1023,
+    "timeMonth": 1389,
+    "timeYear": 4819,
     "dailyMinutesDown": {
       "2024-09-11": 10,
       "2024-09-01": 24,
@@ -192,13 +192,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 248,
-    "timeWeek": 1033,
-    "timeMonth": 413,
+    "timeDay": 183,
+    "timeWeek": 933,
+    "timeMonth": 414,
     "timeYear": 343,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Coffins",
@@ -212,13 +210,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 725,
-    "timeWeek": 459,
-    "timeMonth": 340,
+    "timeDay": 424,
+    "timeWeek": 434,
+    "timeMonth": 339,
     "timeYear": 368,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Winsor and Newton",
@@ -232,10 +228,10 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.47%",
     "time": 940,
-    "timeDay": 1046,
-    "timeWeek": 1502,
+    "timeDay": 593,
+    "timeWeek": 767,
     "timeMonth": 973,
-    "timeYear": 935,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2024-09-19": 44,
       "2024-08-19": 84,
@@ -268,9 +264,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 324,
-    "timeDay": 228,
-    "timeWeek": 805,
-    "timeMonth": 335,
+    "timeDay": 207,
+    "timeWeek": 201,
+    "timeMonth": 337,
     "timeYear": 333,
     "dailyMinutesDown": {}
   },
@@ -286,13 +282,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 247,
-    "timeDay": 332,
-    "timeWeek": 229,
+    "timeDay": 178,
+    "timeWeek": 209,
     "timeMonth": 196,
-    "timeYear": 266,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-04-07": 12,
-      "2023-10-03": 19
+      "2024-04-07": 12
     }
   },
   {
@@ -307,9 +302,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 357,
-    "timeWeek": 218,
-    "timeMonth": 421,
+    "timeDay": 148,
+    "timeWeek": 196,
+    "timeMonth": 422,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -325,13 +320,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 320,
-    "timeWeek": 265,
-    "timeMonth": 207,
+    "timeDay": 330,
+    "timeWeek": 267,
+    "timeMonth": 202,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tickets",
@@ -345,10 +338,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1477,
-    "timeDay": 372,
-    "timeWeek": 2325,
-    "timeMonth": 2446,
-    "timeYear": 1634,
+    "timeDay": 258,
+    "timeWeek": 1783,
+    "timeMonth": 2447,
+    "timeYear": 1635,
     "dailyMinutesDown": {
       "2024-04-21": 11,
       "2024-03-12": 5,
@@ -367,11 +360,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "99.92%",
-    "time": 830,
-    "timeDay": 772,
-    "timeWeek": 728,
+    "time": 829,
+    "timeDay": 521,
+    "timeWeek": 686,
     "timeMonth": 650,
-    "timeYear": 810,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2024-09-02": 313,
       "2024-06-13": 54,
@@ -390,10 +383,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
     "time": 1140,
-    "timeDay": 1343,
-    "timeWeek": 1169,
+    "timeDay": 890,
+    "timeWeek": 1115,
     "timeMonth": 1033,
-    "timeYear": 1137,
+    "timeYear": 1136,
     "dailyMinutesDown": {
       "2024-05-22": 35,
       "2024-01-19": 4,
@@ -414,11 +407,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 702,
-    "timeDay": 870,
-    "timeWeek": 797,
-    "timeMonth": 684,
-    "timeYear": 679,
+    "time": 701,
+    "timeDay": 491,
+    "timeWeek": 723,
+    "timeMonth": 657,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2024-08-21": 13,
       "2024-07-27": 4,
@@ -463,10 +456,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 886,
-    "timeWeek": 663,
+    "timeDay": 440,
+    "timeWeek": 625,
     "timeMonth": 545,
-    "timeYear": 560,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -481,8 +474,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 369,
-    "timeWeek": 253,
+    "timeDay": 165,
+    "timeWeek": 243,
     "timeMonth": 175,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -498,14 +491,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 300,
-    "timeWeek": 231,
-    "timeMonth": 175,
-    "timeYear": 200,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "time": 195,
+    "timeDay": 426,
+    "timeWeek": 248,
+    "timeMonth": 185,
+    "timeYear": 201,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portrait Miniatures",
@@ -519,9 +510,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 304,
-    "timeWeek": 237,
-    "timeMonth": 189,
+    "timeDay": 156,
+    "timeWeek": 194,
+    "timeMonth": 188,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -534,12 +525,12 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
     "time": 1456,
-    "timeDay": 512,
-    "timeWeek": 570,
-    "timeMonth": 519,
+    "timeDay": 435,
+    "timeWeek": 534,
+    "timeMonth": 514,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2024-09-01": 10,
@@ -590,10 +581,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 519,
-    "timeDay": 739,
-    "timeWeek": 593,
-    "timeMonth": 547,
-    "timeYear": 511,
+    "timeDay": 510,
+    "timeWeek": 567,
+    "timeMonth": 549,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2024-09-10": 15,
       "2024-06-28": 13,
@@ -614,13 +605,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 284,
-    "timeWeek": 229,
+    "timeDay": 164,
+    "timeWeek": 208,
     "timeMonth": 182,
     "timeYear": 214,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Being an Islander",
@@ -634,12 +623,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 299,
-    "timeWeek": 228,
-    "timeMonth": 187,
+    "timeDay": 164,
+    "timeWeek": 208,
+    "timeMonth": 188,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2023-10-03": 19
-    }
+    "dailyMinutesDown": {}
   }
 ]
