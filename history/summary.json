@@ -94,19 +94,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.59%",
-    "time": 4497,
+    "time": 4502,
     "timeDay": 886,
     "timeWeek": 2386,
     "timeMonth": 2696,
     "timeYear": 3389,
     "dailyMinutesDown": {
-      "2024-12-02": 9,
+      "2024-12-02": 10,
       "2024-12-01": 13,
       "2024-11-29": 46,
       "2024-11-28": 125,
@@ -159,8 +159,7 @@
       "2024-04-13": 4,
       "2024-04-12": 4,
       "2024-04-11": 443,
-      "2024-04-10": 42,
-      "2024-04-07": 4
+      "2024-04-10": 42
     }
   },
   {
