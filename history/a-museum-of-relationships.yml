@@ -1,7 +1,7 @@
 url: https://amor.fitz.ms
-status: up
-code: 200
-responseTime: 1325
-lastUpdated: 2024-12-14T19:58:26.368Z
+status: down
+code: 504
+responseTime: 15450
+lastUpdated: 2024-12-14T20:31:14.884Z
 startTime: 2022-07-27T08:14:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
