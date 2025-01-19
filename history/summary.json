@@ -4,19 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "98.34%",
+    "uptimeDay": "98.29%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.06%",
-    "time": 4562,
-    "timeDay": 7595,
-    "timeWeek": 4842,
-    "timeMonth": 4305,
-    "timeYear": 4393,
+    "time": 4580,
+    "timeDay": 8399,
+    "timeWeek": 5516,
+    "timeMonth": 4504,
+    "timeYear": 4409,
     "dailyMinutesDown": {
-      "2025-01-19": 25,
+      "2025-01-19": 26,
       "2024-12-28": 8,
       "2024-12-26": 11,
       "2024-12-24": 5,
@@ -53,7 +53,7 @@
       "2024-08-30": 426,
       "2024-08-29": 13,
       "2024-08-19": 18,
-      "2024-08-14": 53
+      "2024-08-14": 39
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-01-19": 1058,
+      "2025-01-19": 1064,
       "2025-01-18": 1440,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
