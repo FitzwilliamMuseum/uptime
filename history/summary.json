@@ -4,11 +4,11 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "89.00%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "88.99%",
     "uptimeYear": "98.31%",
     "time": 4583,
     "timeDay": 10280,
@@ -16,7 +16,7 @@
     "timeMonth": 6128,
     "timeYear": 4652,
     "dailyMinutesDown": {
-      "2025-02-18": 32,
+      "2025-02-18": 35,
       "2025-02-15": 18,
       "2025-02-13": 5,
       "2025-02-12": 13,
@@ -51,7 +51,7 @@
       "2024-12-08": 883,
       "2024-12-07": 11,
       "2024-12-05": 22,
-      "2024-12-01": 15
+      "2024-12-01": 5
     }
   },
   {
@@ -59,19 +59,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.59%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.21%",
-    "time": 5227,
+    "time": 5212,
     "timeDay": 9678,
     "timeWeek": 5330,
     "timeMonth": 5158,
     "timeYear": 4868,
     "dailyMinutesDown": {
-      "2025-02-18": 29,
+      "2025-02-18": 31,
       "2025-02-15": 17,
       "2025-02-10": 4,
       "2025-02-08": 5,
@@ -99,7 +99,7 @@
       "2024-12-05": 25,
       "2024-12-04": 4,
       "2024-12-03": 164,
-      "2024-12-02": 29
+      "2024-12-02": 24
     }
   },
   {
@@ -155,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-02-18": 1099,
+      "2025-02-18": 1131,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -503,15 +503,15 @@
     "uptime": "98.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.74%",
-    "uptimeYear": "95.30%",
+    "uptimeMonth": "53.67%",
+    "uptimeYear": "95.29%",
     "time": 2679,
     "timeDay": 821,
     "timeWeek": 656,
     "timeMonth": 3142,
     "timeYear": 2882,
     "dailyMinutesDown": {
-      "2025-02-18": 1099,
+      "2025-02-18": 1131,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
