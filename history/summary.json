@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2025-04-17": 1373,
+      "2025-04-17": 1380,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
@@ -577,19 +577,19 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "up",
+    "status": "down",
     "uptime": "94.68%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "69.81%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "69.82%",
     "uptimeYear": "85.50%",
-    "time": 2738,
-    "timeDay": 6733,
-    "timeWeek": 3213,
-    "timeMonth": 4499,
-    "timeYear": 3239,
+    "time": 2757,
+    "timeDay": 8532,
+    "timeWeek": 3949,
+    "timeMonth": 4672,
+    "timeYear": 3261,
     "dailyMinutesDown": {
-      "2025-04-17": 18,
+      "2025-04-17": 19,
       "2025-04-16": 26,
       "2025-04-14": 110,
       "2025-04-12": 11,
@@ -673,8 +673,7 @@
       "2024-12-11": 6,
       "2024-12-10": 14,
       "2024-12-09": 656,
-      "2024-12-08": 843,
-      "2024-12-05": 20
+      "2024-12-08": 843
     }
   },
   {
