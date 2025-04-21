@@ -173,14 +173,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.67%",
+    "uptimeYear": "63.66%",
     "time": 941,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2025-04-20": 1398,
+      "2025-04-21": 49,
+      "2025-04-20": 1440,
       "2025-04-19": 1440,
       "2025-04-18": 1440,
       "2025-04-17": 1440,
@@ -410,8 +411,7 @@
     "timeYear": 1479,
     "dailyMinutesDown": {
       "2025-03-18": 16,
-      "2025-02-02": 10,
-      "2024-04-21": 11
+      "2025-02-02": 10
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schools.fitzmuseum.cam.ac.uk.ico",
     "slug": "schools-project",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -587,7 +587,7 @@
     "uptime": "94.70%",
     "uptimeDay": "99.71%",
     "uptimeWeek": "98.25%",
-    "uptimeMonth": "79.68%",
+    "uptimeMonth": "79.89%",
     "uptimeYear": "85.51%",
     "time": 2706,
     "timeDay": 13315,
