@@ -6,17 +6,17 @@
     "slug": "main-website",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.56%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "98.53%",
-    "time": 4657,
+    "time": 4658,
     "timeDay": 6721,
     "timeWeek": 5321,
     "timeMonth": 6108,
-    "timeYear": 4726,
+    "timeYear": 4721,
     "dailyMinutesDown": {
-      "2025-04-22": 5,
+      "2025-04-22": 7,
       "2025-04-21": 10,
       "2025-04-20": 5,
       "2025-04-17": 15,
@@ -62,7 +62,7 @@
       "2024-12-16": 903,
       "2024-12-15": 79,
       "2024-12-14": 380,
-      "2024-12-13": 28
+      "2024-12-13": 11
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.24%",
-    "time": 4679,
-    "timeDay": 7703,
-    "timeWeek": 6930,
-    "timeMonth": 5472,
-    "timeYear": 4961,
+    "time": 4695,
+    "timeDay": 8979,
+    "timeWeek": 7426,
+    "timeMonth": 5614,
+    "timeYear": 4976,
     "dailyMinutesDown": {
-      "2025-04-22": 4,
+      "2025-04-22": 5,
       "2025-04-21": 5,
       "2025-04-20": 5,
       "2025-04-19": 9,
@@ -127,7 +127,7 @@
       "2024-12-11": 7,
       "2024-12-10": 25,
       "2024-12-09": 686,
-      "2024-12-08": 310
+      "2024-12-08": 273
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 0,
     "timeYear": 929,
     "dailyMinutesDown": {
-      "2025-04-22": 469,
+      "2025-04-22": 503,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -587,18 +587,19 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "up",
+    "status": "down",
     "uptime": "94.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "84.13%",
-    "uptimeYear": "85.51%",
-    "time": 2706,
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "84.21%",
+    "uptimeYear": "85.52%",
+    "time": 2710,
     "timeDay": 541,
     "timeWeek": 6167,
     "timeMonth": 5084,
     "timeYear": 3318,
     "dailyMinutesDown": {
+      "2025-04-22": 1,
       "2025-04-20": 4,
       "2025-04-18": 5,
       "2025-04-17": 30,
@@ -685,7 +686,7 @@
       "2024-12-11": 6,
       "2024-12-10": 14,
       "2024-12-09": 656,
-      "2024-12-08": 785
+      "2024-12-08": 750
     }
   },
   {
