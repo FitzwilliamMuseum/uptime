@@ -193,14 +193,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "53.54%",
+    "uptimeYear": "53.53%",
     "time": 957,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2025-05-27": 1439,
+      "2025-05-28": 70,
+      "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
@@ -551,8 +552,7 @@
       "2024-08-21": 13,
       "2024-07-27": 4,
       "2024-06-21": 14,
-      "2024-06-02": 4,
-      "2024-05-28": 8
+      "2024-06-02": 4
     }
   },
   {
@@ -632,18 +632,19 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "down",
-    "uptime": "94.97%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "85.72%",
+    "status": "up",
+    "uptime": "94.96%",
+    "uptimeDay": "95.10%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "85.71%",
     "time": 3174,
-    "timeDay": 7975,
-    "timeWeek": 5139,
-    "timeMonth": 4052,
-    "timeYear": 3653,
+    "timeDay": 5467,
+    "timeWeek": 4879,
+    "timeMonth": 3995,
+    "timeYear": 3648,
     "dailyMinutesDown": {
+      "2025-05-28": 70,
       "2025-05-27": 1,
       "2025-05-24": 5,
       "2025-05-23": 26,
@@ -765,8 +766,7 @@
       "2025-05-26": 25,
       "2025-02-05": 29,
       "2024-09-10": 15,
-      "2024-06-28": 13,
-      "2024-05-28": 86
+      "2024-06-28": 13
     }
   },
   {
