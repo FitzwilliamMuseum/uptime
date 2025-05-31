@@ -4,18 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "95.34%",
-    "uptimeWeek": "97.76%",
-    "uptimeMonth": "98.96%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "98.91%",
     "uptimeYear": "98.84%",
-    "time": 4777,
-    "timeDay": 8382,
-    "timeWeek": 6197,
-    "timeMonth": 5372,
-    "timeYear": 4880,
+    "time": 4792,
+    "timeDay": 9076,
+    "timeWeek": 6642,
+    "timeMonth": 5350,
+    "timeYear": 4894,
     "dailyMinutesDown": {
+      "2025-05-31": 2,
       "2025-05-30": 68,
       "2025-05-29": 43,
       "2025-05-28": 30,
@@ -68,8 +69,7 @@
       "2025-01-29": 5,
       "2025-01-22": 21,
       "2025-01-21": 5,
-      "2025-01-20": 12,
-      "2025-01-19": 14
+      "2025-01-20": 12
     }
   },
   {
@@ -77,18 +77,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "99.03%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.68%",
-    "time": 4977,
-    "timeDay": 7702,
-    "timeWeek": 6068,
-    "timeMonth": 5413,
-    "timeYear": 5065,
+    "time": 4982,
+    "timeDay": 9258,
+    "timeWeek": 6683,
+    "timeMonth": 5436,
+    "timeYear": 5086,
     "dailyMinutesDown": {
+      "2025-05-31": 1,
       "2025-05-30": 55,
       "2025-05-29": 41,
       "2025-05-28": 4,
@@ -146,8 +147,7 @@
       "2024-12-23": 4,
       "2024-12-22": 127,
       "2024-12-21": 62,
-      "2024-12-20": 5,
-      "2024-12-17": 10
+      "2024-12-20": 5
     }
   },
   {
@@ -164,7 +164,7 @@
     "time": 327,
     "timeDay": 358,
     "timeWeek": 243,
-    "timeMonth": 419,
+    "timeMonth": 412,
     "timeYear": 350,
     "dailyMinutesDown": {}
   },
@@ -192,18 +192,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/winsorandnewton.fitzmuseum.cam.ac.uk.ico",
     "slug": "winsor-and-newton",
     "status": "down",
-    "uptime": "88.32%",
+    "uptime": "88.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "52.73%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "52.64%",
     "time": 961,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 945,
     "dailyMinutesDown": {
-      "2025-05-30": 1410,
+      "2025-05-31": 412,
+      "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
@@ -414,7 +415,7 @@
     "time": 288,
     "timeDay": 522,
     "timeWeek": 264,
-    "timeMonth": 259,
+    "timeMonth": 257,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -432,7 +433,7 @@
     "time": 268,
     "timeDay": 283,
     "timeWeek": 207,
-    "timeMonth": 224,
+    "timeMonth": 227,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -450,7 +451,7 @@
     "time": 257,
     "timeDay": 168,
     "timeWeek": 224,
-    "timeMonth": 219,
+    "timeMonth": 226,
     "timeYear": 270,
     "dailyMinutesDown": {}
   },
@@ -468,7 +469,7 @@
     "time": 1536,
     "timeDay": 4005,
     "timeWeek": 1281,
-    "timeMonth": 1716,
+    "timeMonth": 1777,
     "timeYear": 1497,
     "dailyMinutesDown": {
       "2025-03-18": 16,
@@ -489,7 +490,7 @@
     "time": 819,
     "timeDay": 821,
     "timeWeek": 667,
-    "timeMonth": 804,
+    "timeMonth": 810,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2025-03-27": 17,
@@ -513,7 +514,7 @@
     "time": 1151,
     "timeDay": 1301,
     "timeWeek": 1085,
-    "timeMonth": 1181,
+    "timeMonth": 1176,
     "timeYear": 1112,
     "dailyMinutesDown": {
       "2025-03-17": 5,
@@ -537,7 +538,7 @@
     "time": 698,
     "timeDay": 884,
     "timeWeek": 684,
-    "timeMonth": 704,
+    "timeMonth": 706,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2025-05-22": 58,
@@ -574,7 +575,7 @@
     "time": 579,
     "timeDay": 727,
     "timeWeek": 568,
-    "timeMonth": 560,
+    "timeMonth": 562,
     "timeYear": 587,
     "dailyMinutesDown": {}
   },
@@ -592,7 +593,7 @@
     "time": 220,
     "timeDay": 295,
     "timeWeek": 734,
-    "timeMonth": 334,
+    "timeMonth": 330,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -610,7 +611,7 @@
     "time": 237,
     "timeDay": 267,
     "timeWeek": 265,
-    "timeMonth": 201,
+    "timeMonth": 207,
     "timeYear": 247,
     "dailyMinutesDown": {}
   },
@@ -628,7 +629,7 @@
     "time": 255,
     "timeDay": 166,
     "timeWeek": 204,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -637,18 +638,19 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "up",
-    "uptime": "94.97%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "99.05%",
+    "status": "down",
+    "uptime": "94.98%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "85.70%",
-    "time": 3333,
+    "time": 3332,
     "timeDay": 7489,
-    "timeWeek": 6447,
-    "timeMonth": 4769,
+    "timeWeek": 6190,
+    "timeMonth": 4798,
     "timeYear": 3761,
     "dailyMinutesDown": {
+      "2025-05-31": 1,
       "2025-05-30": 60,
       "2025-05-29": 44,
       "2025-05-28": 70,
@@ -748,7 +750,7 @@
       "2024-12-17": 635,
       "2024-12-16": 862,
       "2024-12-15": 39,
-      "2024-12-14": 239
+      "2024-12-14": 236
     }
   },
   {
@@ -765,7 +767,7 @@
     "time": 527,
     "timeDay": 671,
     "timeWeek": 587,
-    "timeMonth": 557,
+    "timeMonth": 554,
     "timeYear": 532,
     "dailyMinutesDown": {
       "2025-05-26": 25,
@@ -788,7 +790,7 @@
     "time": 238,
     "timeDay": 280,
     "timeWeek": 188,
-    "timeMonth": 196,
+    "timeMonth": 203,
     "timeYear": 252,
     "dailyMinutesDown": {}
   },
@@ -806,7 +808,7 @@
     "time": 223,
     "timeDay": 271,
     "timeWeek": 186,
-    "timeMonth": 304,
+    "timeMonth": 301,
     "timeYear": 224,
     "dailyMinutesDown": {}
   }
