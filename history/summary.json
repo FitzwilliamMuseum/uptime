@@ -14,7 +14,7 @@
     "timeDay": 7646,
     "timeWeek": 8904,
     "timeMonth": 7580,
-    "timeYear": 5318,
+    "timeYear": 5324,
     "dailyMinutesDown": {
       "2025-06-12": 15,
       "2025-06-11": 67,
@@ -63,19 +63,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.63%",
-    "time": 5287,
-    "timeDay": 16189,
-    "timeWeek": 8909,
-    "timeMonth": 7529,
+    "time": 5282,
+    "timeDay": 14001,
+    "timeWeek": 8745,
+    "timeMonth": 7479,
     "timeYear": 5468,
     "dailyMinutesDown": {
-      "2025-06-12": 10,
+      "2025-06-12": 22,
       "2025-06-11": 95,
       "2025-06-10": 32,
       "2025-06-09": 56,
@@ -140,7 +140,7 @@
     "timeDay": 315,
     "timeWeek": 1232,
     "timeMonth": 484,
-    "timeYear": 369,
+    "timeYear": 367,
     "dailyMinutesDown": {}
   },
   {
@@ -176,9 +176,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 958,
+    "timeYear": 959,
     "dailyMinutesDown": {
-      "2025-06-12": 1378,
+      "2025-06-12": 1391,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -385,7 +385,7 @@
     "timeDay": 413,
     "timeWeek": 235,
     "timeMonth": 372,
-    "timeYear": 298,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -403,7 +403,7 @@
     "timeDay": 301,
     "timeWeek": 356,
     "timeMonth": 285,
-    "timeYear": 256,
+    "timeYear": 257,
     "dailyMinutesDown": {}
   },
   {
@@ -457,7 +457,7 @@
     "timeDay": 3644,
     "timeWeek": 1212,
     "timeMonth": 1389,
-    "timeYear": 1475,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2025-03-18": 16,
       "2025-02-02": 10
@@ -495,17 +495,17 @@
     "slug": "schools-project",
     "status": "down",
     "uptime": "97.25%",
-    "uptimeDay": "23.41%",
-    "uptimeWeek": "89.06%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "22.52%",
+    "uptimeWeek": "88.93%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.77%",
     "time": 1153,
     "timeDay": 1353,
     "timeWeek": 1115,
     "timeMonth": 1181,
-    "timeYear": 1111,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2025-06-12": 1103,
+      "2025-06-12": 1116,
       "2025-03-17": 5,
       "2025-01-05": 37,
       "2025-01-04": 4,
@@ -636,7 +636,7 @@
     "timeDay": 9407,
     "timeWeek": 7747,
     "timeMonth": 6934,
-    "timeYear": 4335,
+    "timeYear": 4341,
     "dailyMinutesDown": {
       "2025-06-12": 41,
       "2025-06-11": 60,
@@ -777,7 +777,7 @@
     "timeDay": 281,
     "timeWeek": 189,
     "timeMonth": 211,
-    "timeYear": 253,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
