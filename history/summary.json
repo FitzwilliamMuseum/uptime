@@ -4,19 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "97.70%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "97.68%",
     "uptimeMonth": "96.45%",
     "uptimeYear": "99.40%",
-    "time": 5586,
+    "time": 5591,
     "timeDay": 14563,
     "timeWeek": 9974,
     "timeMonth": 8731,
     "timeYear": 5919,
     "dailyMinutesDown": {
-      "2025-07-06": 48,
+      "2025-07-06": 50,
       "2025-07-05": 21,
       "2025-07-04": 30,
       "2025-07-03": 22,
@@ -47,7 +47,7 @@
       "2025-06-04": 68,
       "2025-06-03": 46,
       "2025-06-02": 183,
-      "2025-05-31": 8
+      "2025-05-31": 4
     }
   },
   {
@@ -55,19 +55,19 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "92.23%",
-    "uptimeWeek": "96.12%",
+    "uptimeDay": "92.12%",
+    "uptimeWeek": "96.10%",
     "uptimeMonth": "96.53%",
     "uptimeYear": "99.60%",
-    "time": 5981,
-    "timeDay": 14037,
-    "timeWeek": 12491,
-    "timeMonth": 9906,
-    "timeYear": 6285,
+    "time": 6001,
+    "timeDay": 14567,
+    "timeWeek": 12642,
+    "timeMonth": 9966,
+    "timeYear": 6301,
     "dailyMinutesDown": {
-      "2025-07-06": 107,
+      "2025-07-06": 109,
       "2025-07-05": 99,
       "2025-07-04": 60,
       "2025-07-03": 36,
@@ -96,7 +96,7 @@
       "2025-06-05": 426,
       "2025-06-04": 93,
       "2025-06-03": 22,
-      "2025-06-02": 33
+      "2025-06-02": 14
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-07-06": 1236,
+      "2025-07-06": 1255,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -624,19 +624,19 @@
     "url": "https://amor.fitz.ms",
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "96.34%",
+    "uptimeDay": "96.29%",
     "uptimeWeek": "97.84%",
     "uptimeMonth": "98.01%",
-    "uptimeYear": "99.72%",
-    "time": 4210,
-    "timeDay": 8190,
-    "timeWeek": 7931,
-    "timeMonth": 7755,
-    "timeYear": 4883,
+    "uptimeYear": "99.73%",
+    "time": 4238,
+    "timeDay": 10151,
+    "timeWeek": 8491,
+    "timeMonth": 7888,
+    "timeYear": 4911,
     "dailyMinutesDown": {
-      "2025-07-06": 53,
+      "2025-07-06": 54,
       "2025-07-05": 22,
       "2025-07-04": 37,
       "2025-07-03": 10,
@@ -676,7 +676,7 @@
       "2025-05-23": 26,
       "2025-05-22": 58,
       "2025-05-20": 58,
-      "2025-05-19": 19
+      "2025-05-19": 3
     }
   },
   {
