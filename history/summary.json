@@ -139,7 +139,7 @@
     "timeMonth": 514,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-09-22": 378,
+      "2025-09-22": 406,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -201,7 +201,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/winsorandnewton.fitzmuseum.cam.ac.uk.ico",
     "slug": "winsor-and-newton",
     "status": "down",
-    "uptime": "82.36%",
+    "uptime": "82.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2025-09-22": 378,
+      "2025-09-22": 406,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
@@ -544,19 +544,19 @@
     "url": "https://do-not-touch.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/do-not-touch.fitzmuseum.cam.ac.uk.ico",
     "slug": "do-not-touch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 290,
-    "timeDay": 315,
-    "timeWeek": 294,
-    "timeMonth": 243,
+    "timeDay": 249,
+    "timeWeek": 280,
+    "timeMonth": 241,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-09-22": 1
+      "2025-09-22": 28
     }
   },
   {
@@ -627,7 +627,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/schools.fitzmuseum.cam.ac.uk.ico",
     "slug": "schools-project",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -780,7 +780,7 @@
     "timeMonth": 620,
     "timeYear": 5028,
     "dailyMinutesDown": {
-      "2025-09-22": 379,
+      "2025-09-22": 406,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
       "2025-09-19": 1440,
