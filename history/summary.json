@@ -4,19 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.06%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.70%",
-    "time": 5721,
+    "time": 5725,
     "timeDay": 6743,
     "timeWeek": 5523,
     "timeMonth": 4889,
     "timeYear": 6181,
     "dailyMinutesDown": {
-      "2025-10-27": 22,
+      "2025-10-27": 25,
       "2025-10-26": 5,
       "2025-10-24": 29,
       "2025-10-23": 20,
@@ -71,7 +71,7 @@
       "2025-06-22": 67,
       "2025-06-21": 14,
       "2025-06-19": 5,
-      "2025-06-18": 110
+      "2025-06-18": 86
     }
   },
   {
@@ -79,10 +79,10 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.29%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.65%",
     "time": 6107,
@@ -91,6 +91,7 @@
     "timeMonth": 4887,
     "timeYear": 6454,
     "dailyMinutesDown": {
+      "2025-10-27": 2,
       "2025-10-26": 4,
       "2025-10-24": 28,
       "2025-10-23": 19,
@@ -136,7 +137,7 @@
       "2025-06-18": 367,
       "2025-06-17": 33,
       "2025-06-16": 23,
-      "2025-06-15": 25
+      "2025-06-15": 11
     }
   },
   {
@@ -149,14 +150,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.80%",
+    "uptimeYear": "80.79%",
     "time": 386,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2025-10-27": 641,
+      "2025-10-27": 680,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -264,7 +265,7 @@
     "timeMonth": 0,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2025-10-27": 641,
+      "2025-10-27": 681,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -866,14 +867,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.08%",
+    "uptimeYear": "81.07%",
     "time": 4389,
     "timeDay": 623,
     "timeWeek": 666,
     "timeMonth": 868,
     "timeYear": 5038,
     "dailyMinutesDown": {
-      "2025-10-27": 641,
+      "2025-10-27": 681,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
