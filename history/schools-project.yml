@@ -1,7 +1,7 @@
 url: http://schools.fitzmuseum.cam.ac.uk
-status: down
-code: 500
-responseTime: 7550
-lastUpdated: 2026-01-15T23:31:51.673Z
+status: up
+code: 200
+responseTime: 1241
+lastUpdated: 2026-01-16T09:29:42.622Z
 startTime: 2021-02-02T00:13:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
