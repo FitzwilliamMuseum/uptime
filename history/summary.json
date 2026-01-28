@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2026-01-28": 674,
+      "2026-01-28": 697,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 675,
+      "2026-01-28": 697,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -761,10 +761,10 @@
     "url": "https://beyondthelabel.fitzmuseum.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/beyondthelabel.fitzmuseum.cam.ac.uk.ico",
     "slug": "beyond-the-label",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
@@ -772,7 +772,9 @@
     "timeWeek": 904,
     "timeMonth": 550,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 2
+    }
   },
   {
     "name": "Creative Economy",
@@ -1050,10 +1052,10 @@
     "url": "https://unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/unlocking-miniatures.fitzmuseum.cam.ac.uk.ico",
     "slug": "portrait-miniatures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 282,
@@ -1062,7 +1064,7 @@
     "timeMonth": 522,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-01-28": 24
+      "2026-01-28": 25
     }
   },
   {
@@ -1075,14 +1077,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.60%",
+    "uptimeYear": "55.59%",
     "time": 4822,
     "timeDay": 3659,
     "timeWeek": 4362,
     "timeMonth": 3614,
     "timeYear": 4507,
     "dailyMinutesDown": {
-      "2026-01-28": 675,
+      "2026-01-28": 698,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
