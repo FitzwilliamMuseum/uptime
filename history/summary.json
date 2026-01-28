@@ -4,19 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.36%",
-    "uptimeWeek": "82.59%",
-    "uptimeMonth": "95.50%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "82.86%",
+    "uptimeMonth": "95.49%",
     "uptimeYear": "99.31%",
-    "time": 6101,
+    "time": 6099,
     "timeDay": 7361,
-    "timeWeek": 6697,
+    "timeWeek": 6355,
     "timeMonth": 5444,
     "timeYear": 5863,
     "dailyMinutesDown": {
-      "2026-01-28": 31,
+      "2026-01-28": 35,
       "2026-01-27": 82,
       "2026-01-26": 27,
       "2026-01-25": 26,
@@ -81,8 +81,7 @@
       "2025-09-06": 5,
       "2025-09-05": 4,
       "2025-09-02": 5,
-      "2025-08-24": 17,
-      "2025-08-23": 4
+      "2025-08-24": 17
     }
   },
   {
@@ -181,14 +180,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.30%",
+    "uptimeYear": "55.29%",
     "time": 403,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2026-01-28": 723,
+      "2026-01-28": 773,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -389,7 +388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 723,
+      "2026-01-28": 773,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -1053,11 +1052,11 @@
     "url": "https://unlocking-miniatures.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/unlocking-miniatures.fitzmuseum.cam.ac.uk.ico",
     "slug": "portrait-miniatures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 292,
     "timeDay": 2695,
@@ -1065,7 +1064,7 @@
     "timeMonth": 658,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2026-01-28": 45
+      "2026-01-28": 46
     }
   },
   {
@@ -1074,18 +1073,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/amor.fitz.ms.ico",
     "slug": "a-museum-of-relationships",
     "status": "down",
-    "uptime": "87.35%",
+    "uptime": "87.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.59%",
+    "uptimeYear": "55.58%",
     "time": 4822,
     "timeDay": 3659,
     "timeWeek": 4362,
     "timeMonth": 3614,
     "timeYear": 4507,
     "dailyMinutesDown": {
-      "2026-01-28": 724,
+      "2026-01-28": 774,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -1320,11 +1319,11 @@
     "url": "https://data-islands.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data-islands.fitzmuseum.cam.ac.uk.ico",
     "slug": "data-islands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 2809,
@@ -1332,7 +1331,7 @@
     "timeMonth": 552,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-01-28": 6
+      "2026-01-28": 7
     }
   },
   {
