@@ -4,19 +4,19 @@
     "url": "https://fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/fitzmuseum.cam.ac.uk.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "88.71%",
-    "uptimeWeek": "82.42%",
-    "uptimeMonth": "95.24%",
+    "uptimeDay": "88.31%",
+    "uptimeWeek": "82.36%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "99.29%",
-    "time": 6094,
+    "time": 6098,
     "timeDay": 6411,
     "timeWeek": 5840,
     "timeMonth": 5382,
     "timeYear": 5858,
     "dailyMinutesDown": {
-      "2026-01-28": 141,
+      "2026-01-28": 147,
       "2026-01-27": 82,
       "2026-01-26": 27,
       "2026-01-25": 26,
@@ -80,8 +80,7 @@
       "2025-09-07": 9,
       "2025-09-06": 5,
       "2025-09-05": 4,
-      "2025-09-02": 5,
-      "2025-08-24": 17
+      "2025-09-02": 5
     }
   },
   {
@@ -187,7 +186,7 @@
     "timeMonth": 0,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2026-01-28": 881,
+      "2026-01-28": 906,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -388,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 881,
+      "2026-01-28": 906,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -760,19 +759,19 @@
     "url": "https://beyondthelabel.fitzmuseum.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/beyondthelabel.fitzmuseum.cam.ac.uk.ico",
     "slug": "beyond-the-label",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 336,
+    "time": 337,
     "timeDay": 4841,
     "timeWeek": 1846,
     "timeMonth": 828,
     "timeYear": 359,
     "dailyMinutesDown": {
-      "2026-01-28": 48
+      "2026-01-28": 52
     }
   },
   {
@@ -1014,29 +1013,31 @@
     "url": "https://kunisada-and-kabuki.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/kunisada-and-kabuki.fitzmuseum.cam.ac.uk.ico",
     "slug": "kunisada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
+    "time": 277,
     "timeDay": 5046,
     "timeWeek": 933,
     "timeMonth": 370,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 2
+    }
   },
   {
     "name": "Mapping Antiquity",
     "url": "https://mapping-antiquity.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/mapping-antiquity.fitzmuseum.cam.ac.uk.ico",
     "slug": "mapping-antiquity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 243,
@@ -1044,7 +1045,7 @@
     "timeMonth": 224,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-01-28": 15
+      "2026-01-28": 16
     }
   },
   {
@@ -1077,14 +1078,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.56%",
+    "uptimeYear": "55.55%",
     "time": 4822,
     "timeDay": 3659,
     "timeWeek": 4362,
     "timeMonth": 3614,
     "timeYear": 4507,
     "dailyMinutesDown": {
-      "2026-01-28": 882,
+      "2026-01-28": 907,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
