@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "96.72%",
-    "uptimeWeek": "82.57%",
+    "uptimeWeek": "82.61%",
     "uptimeMonth": "95.51%",
     "uptimeYear": "99.31%",
     "time": 6099,
     "timeDay": 7680,
-    "timeWeek": 6990,
+    "timeWeek": 6670,
     "timeMonth": 5440,
     "timeYear": 5864,
     "dailyMinutesDown": {
@@ -93,12 +93,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "96.91%",
-    "uptimeWeek": "84.25%",
+    "uptimeWeek": "84.28%",
     "uptimeMonth": "96.13%",
     "uptimeYear": "99.29%",
     "time": 6407,
     "timeDay": 6569,
-    "timeWeek": 7492,
+    "timeWeek": 7138,
     "timeMonth": 4852,
     "timeYear": 6054,
     "dailyMinutesDown": {
@@ -181,14 +181,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.31%",
+    "uptimeYear": "55.30%",
     "time": 403,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2026-01-28": 697,
+      "2026-01-28": 713,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -389,7 +389,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-28": 697,
+      "2026-01-28": 713,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -761,19 +761,19 @@
     "url": "https://beyondthelabel.fitzmuseum.cam.ac.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/beyondthelabel.fitzmuseum.cam.ac.uk.ico",
     "slug": "beyond-the-label",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 4238,
-    "timeWeek": 904,
-    "timeMonth": 550,
-    "timeYear": 333,
+    "time": 327,
+    "timeDay": 4682,
+    "timeWeek": 1432,
+    "timeMonth": 693,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2026-01-28": 2
+      "2026-01-28": 14
     }
   },
   {
@@ -865,10 +865,10 @@
     "url": "https://museums.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/museums.cam.ac.uk.ico",
     "slug": "ucm",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "85.38%",
     "uptimeYear": "98.74%",
     "time": 819,
@@ -877,6 +877,7 @@
     "timeMonth": 1057,
     "timeYear": 863,
     "dailyMinutesDown": {
+      "2026-01-28": 3,
       "2026-01-05": 588,
       "2026-01-04": 1440,
       "2026-01-03": 1440,
@@ -1054,17 +1055,17 @@
     "slug": "portrait-miniatures",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 282,
     "timeDay": 1881,
     "timeWeek": 1339,
     "timeMonth": 522,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-01-28": 25
+      "2026-01-28": 41
     }
   },
   {
@@ -1084,7 +1085,7 @@
     "timeMonth": 3614,
     "timeYear": 4507,
     "dailyMinutesDown": {
-      "2026-01-28": 698,
+      "2026-01-28": 713,
       "2026-01-27": 1440,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
@@ -1319,28 +1320,30 @@
     "url": "https://data-islands.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data-islands.fitzmuseum.cam.ac.uk.ico",
     "slug": "data-islands",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
+    "time": 275,
     "timeDay": 157,
     "timeWeek": 915,
     "timeMonth": 394,
     "timeYear": 284,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 1
+    }
   },
   {
     "name": "Being an Islander",
     "url": "https://islander.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/islander.fitzmuseum.cam.ac.uk.ico",
     "slug": "being-an-islander",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
@@ -1348,6 +1351,8 @@
     "timeWeek": 211,
     "timeMonth": 356,
     "timeYear": 233,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 1
+    }
   }
 ]
