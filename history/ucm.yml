@@ -1,7 +1,7 @@
 url: https://museums.cam.ac.uk
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-28T18:01:25.491Z
+status: up
+code: 200
+responseTime: 791
+lastUpdated: 2026-01-28T18:33:59.047Z
 startTime: 2021-02-02T00:13:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
