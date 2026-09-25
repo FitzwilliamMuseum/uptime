@@ -8,13 +8,13 @@
     "uptime": "99.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.01%",
-    "uptimeYear": "96.18%",
+    "uptimeMonth": "67.72%",
+    "uptimeYear": "96.16%",
     "time": 3635,
     "timeDay": 626,
     "timeWeek": 841,
-    "timeMonth": 2294,
-    "timeYear": 3536,
+    "timeMonth": 2333,
+    "timeYear": 3534,
     "dailyMinutesDown": {
       "2025-12-01": 19,
       "2025-12-03": 10,
@@ -69,7 +69,8 @@
       "2026-08-23": 23,
       "2026-09-05": 118,
       "2026-09-12": 137,
-      "2026-09-24": 1325,
+      "2026-09-25": 10,
+      "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -86,19 +87,18 @@
     "url": "https://data.fitzmuseum.cam.ac.uk",
     "icon": "https://icons.duckduckgo.com/ip3/data.fitzmuseum.cam.ac.uk.ico",
     "slug": "collection",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.27%",
-    "time": 3943,
-    "timeDay": 1261,
-    "timeWeek": 1699,
-    "timeMonth": 2067,
-    "timeYear": 3490,
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.25%",
+    "time": 3964,
+    "timeDay": 21642,
+    "timeWeek": 6739,
+    "timeMonth": 3382,
+    "timeYear": 3572,
     "dailyMinutesDown": {
-      "2025-09-25": 4,
       "2025-10-10": 4,
       "2025-10-11": 4,
       "2025-10-14": 4,
@@ -167,7 +167,8 @@
       "2026-06-03": 72,
       "2026-06-10": 9,
       "2026-06-09": 26,
-      "2026-09-24": 8
+      "2026-09-25": 4,
+      "2026-09-24": 122
     }
   },
   {
@@ -187,7 +188,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-24": 1325,
+      "2026-09-25": 10,
+      "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -550,8 +552,7 @@
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
-      "2025-09-26": 1440,
-      "2025-09-25": 1440
+      "2025-09-26": 1440
     }
   },
   {
@@ -568,7 +569,7 @@
     "time": 416,
     "timeDay": 424,
     "timeWeek": 412,
-    "timeMonth": 384,
+    "timeMonth": 369,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -589,7 +590,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-24": 1326,
+      "2026-09-25": 11,
+      "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -952,8 +954,7 @@
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
-      "2025-09-26": 1440,
-      "2025-09-25": 1440
+      "2025-09-26": 1440
     }
   },
   {
@@ -970,8 +971,8 @@
     "time": 429,
     "timeDay": 318,
     "timeWeek": 276,
-    "timeMonth": 360,
-    "timeYear": 471,
+    "timeMonth": 359,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2026-01-28": 112
     }
@@ -990,7 +991,7 @@
     "time": 399,
     "timeDay": 650,
     "timeWeek": 305,
-    "timeMonth": 349,
+    "timeMonth": 347,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2026-01-28": 67
@@ -1010,8 +1011,8 @@
     "time": 364,
     "timeDay": 294,
     "timeWeek": 426,
-    "timeMonth": 434,
-    "timeYear": 399,
+    "timeMonth": 435,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2026-01-28": 50,
       "2026-02-01": 19
@@ -1031,8 +1032,8 @@
     "time": 357,
     "timeDay": 152,
     "timeWeek": 287,
-    "timeMonth": 369,
-    "timeYear": 392,
+    "timeMonth": 373,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-01-28": 58
     }
@@ -1051,8 +1052,8 @@
     "time": 1099,
     "timeDay": 338,
     "timeWeek": 275,
-    "timeMonth": 491,
-    "timeYear": 877,
+    "timeMonth": 477,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2025-10-12": 10,
       "2025-12-30": 13,
@@ -1073,8 +1074,8 @@
     "time": 868,
     "timeDay": 596,
     "timeWeek": 706,
-    "timeMonth": 737,
-    "timeYear": 915,
+    "timeMonth": 733,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-11-24": 21,
       "2025-12-31": 54,
@@ -1110,8 +1111,8 @@
     "time": 1249,
     "timeDay": 980,
     "timeWeek": 1056,
-    "timeMonth": 1152,
-    "timeYear": 1240,
+    "timeMonth": 1140,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-11-27": 30,
       "2025-12-10": 22,
@@ -1145,7 +1146,7 @@
     "time": 927,
     "timeDay": 885,
     "timeWeek": 971,
-    "timeMonth": 1279,
+    "timeMonth": 1284,
     "timeYear": 948,
     "dailyMinutesDown": {
       "2025-10-14": 2,
@@ -1228,7 +1229,7 @@
     "time": 339,
     "timeDay": 216,
     "timeWeek": 218,
-    "timeMonth": 290,
+    "timeMonth": 291,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-01-28": 57
@@ -1248,8 +1249,8 @@
     "time": 339,
     "timeDay": 235,
     "timeWeek": 227,
-    "timeMonth": 323,
-    "timeYear": 373,
+    "timeMonth": 326,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2026-01-28": 45
     }
@@ -1269,7 +1270,7 @@
     "timeDay": 389,
     "timeWeek": 314,
     "timeMonth": 283,
-    "timeYear": 469,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-01-28": 158,
       "2026-07-18": 44
@@ -1289,10 +1290,11 @@
     "time": 3172,
     "timeDay": 3342,
     "timeWeek": 3345,
-    "timeMonth": 3350,
-    "timeYear": 3055,
+    "timeMonth": 3348,
+    "timeYear": 3062,
     "dailyMinutesDown": {
-      "2026-09-24": 1326,
+      "2026-09-25": 11,
+      "2026-09-24": 1440,
       "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
@@ -1655,8 +1657,7 @@
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
-      "2025-09-26": 1440,
-      "2025-09-25": 1440
+      "2025-09-26": 1440
     }
   },
   {
@@ -1673,7 +1674,7 @@
     "time": 611,
     "timeDay": 601,
     "timeWeek": 568,
-    "timeMonth": 627,
+    "timeMonth": 632,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-09-29": 5,
@@ -1698,7 +1699,7 @@
     "time": 325,
     "timeDay": 217,
     "timeWeek": 241,
-    "timeMonth": 258,
+    "timeMonth": 248,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2026-01-28": 54
@@ -1718,8 +1719,8 @@
     "time": 325,
     "timeDay": 224,
     "timeWeek": 242,
-    "timeMonth": 288,
-    "timeYear": 356,
+    "timeMonth": 289,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2026-01-28": 39
     }
